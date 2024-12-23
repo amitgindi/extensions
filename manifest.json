@@ -10,5 +10,6 @@
         "service_worker": "background.js",
         "type": "module"
     }
-    jj
 }
+
+}}
